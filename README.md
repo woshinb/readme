@@ -1,4 +1,3 @@
 # readme
 
-hahha
-nihao ma 
+hello github
